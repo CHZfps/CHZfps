@@ -1,16 +1,14 @@
-### Hi there 👋
+Seja, bem vindo! Eu sou o CHZfps!
+<div align="center">
+    <a href="https://github.com/CHZfps" style="display: flex">
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=CHZfps&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHZfps&layout=compact&langs_count=7&theme=dark%22/%3E
+ </div>
+ 
+ ##
 
-<!--
-**CHZfps/CHZfps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/Andr4Carvalho/Andr4Carvalho/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
